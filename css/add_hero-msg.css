@@ -1,0 +1,69 @@
+.login-box .user-box input{
+    border-bottom-left-radius: .5rem;
+}
+
+.login-box .user-box textarea {
+    background-color: #e9e6e6;
+    resize: none;
+}
+
+.login-box .user-box label {
+    padding-left: .4rem;
+}
+
+#image {
+    border: none;
+}
+
+
+.login-box {
+    margin: 3rem 0;
+    margin-top: 3rem;
+    width: 60rem;
+    background: var(--color-light-bg);
+    box-shadow: 0 15px 25px #e4dbe6;
+  }
+  
+
+
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+    
+    .login-box {
+        margin: 2rem 0;
+        margin-top: 2rem;
+        width: 50rem;
+      }
+
+}
+
+
+
+
+
+
+
+
+/* Media Queries */
+@media screen and (max-width: 750px) {
+ 
+.login-box {
+    margin: 2rem 0;
+    margin-top: 1rem;
+    width: 21rem;
+  }
+  
+
+
+
+
+}
+
+
+
+
+
+
+
+
